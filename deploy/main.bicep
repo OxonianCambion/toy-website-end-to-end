@@ -54,11 +54,11 @@ var environmentConfigurationMap = {
         name: 'Standard_LRS'
       }
     }
-  }
-  sqlDatabase: {
-    sku: {
-      name: 'Standard'
-      tier: 'Standard'
+    sqlDatabase: {
+      sku: {
+        name: 'Standard'
+        tier: 'Standard'
+      }
     }
   }
   Test: {
